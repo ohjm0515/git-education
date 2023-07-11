@@ -1,2 +1,2 @@
 # git-education
-git 수업자료
+git 졸리구 배구파,,
